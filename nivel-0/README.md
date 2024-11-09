@@ -1,0 +1,31 @@
+## Nivel 0
+- **¿Qué es programar?**
+
+#### Capítulos
+- **Introducción**
+- **Hola dev**
+- **El perfil**
+- **Plan de estudios**
+- **Discord**
+- **Hola mundo**
+- **Primer objetivo**
+- **¿Qué hacen las computadoras?**
+- **Software**
+- **¿Que es el código?**
+- **¿Qué es una app?**
+- **JavaScript: El rey**
+- **¿Qué es un intérprete?**
+- **¿Por qué usamos comandos?**
+- **La terminal**
+- **Algunos comandos**
+- **Visual Studio Code**
+- **Hola mundo**
+- **Datos**
+- **Objetivo del capítulo**
+- **Primeros datos**
+- **Comentarios**
+- **Tipos de datos**
+- **Primitivos**
+- **Objetos**
+- **Arrays**
+- **Yo, objeto**
