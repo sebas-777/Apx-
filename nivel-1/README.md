@@ -459,49 +459,67 @@ Este repositorio contiene todos los ejercicios realizados durante la formación 
 - **Critical CSS**
 - **SVG**
 - **Algunos UI Components**
-WPO & SEO
-Performance
-Web Vitals
-Lighthouse
-SEO
-Tips and tricks
-Recursos
-E-commerce: Frontend
-Resolviendo problemas de CORS en Next.js
-Consigna
-Scrum
-Agilidad
-Scrum
-Agilidad y proyectos
-Lean Startup
-MVP
-Un brief
-Corriendo un sprint
-Introducción
-Elegir el problema
-Armá tu equipo
-Prepará tu brief
-Planning
-Dailies
-Retro
-Entregable
-Mundo laboral
-Empresas & Procesos de selección
-Categorías de empresas
-Modalidades
-Etapas de una búsqueda
-Perfil profesional
-CV
-Linkedin
-Búsquedas y Entrevistas
-Entrevistas
-Tips & tricks
-Programas de referidos
-Freelance
-¿Dónde se buscan los trabajos freelance?
-Typeland
-Flujo de trabajo freelance
-Mi primer trabajo
-En busca de mi primer trabajo
-Introducción
-Consigna
+
+#### WPO & SEO
+
+- **Performance**
+- **Web Vitals**
+- **Lighthouse**
+
+#### SEO
+
+- **Tips and tricks**
+- **Recursos**
+- **E-commerce: Frontend**
+- **Resolviendo problemas de CORS en Next.js**
+- **Consigna**
+
+
+#### Scrum
+
+
+- **Agilidad**
+- **Scrum**
+- **Agilidad y proyectos**
+- **Lean Startup**
+
+
+#### MVP
+
+
+- **Un brief** 
+
+#### Corriendo un sprint
+
+- **Introducción**
+- **Elegir el problema**
+- **Armá tu equipo**
+- **Prepará tu brief**
+- **Planning**
+- **Dailies**
+- **Retro**
+- **Entregable**
+
+#### Mundo laboral
+
+- **Empresas & Procesos de selección**
+- **Categorías de empresas**
+- **Modalidades**
+- **Etapas de una búsqueda**
+- **Perfil profesional**
+- **CV**
+- **Linkedin**
+- **Búsquedas y Entrevistas**
+- **Entrevistas**
+- **Tips & tricks**
+- **Programas de referidos**
+- **Freelance**
+- **¿Dónde se buscan los trabajos freelance?**
+- **Typeland**
+- **Flujo de trabajo freelance**
+- **Mi primer trabajo**
+
+#### En busca de mi primer trabajo**
+
+- **Introducción**
+- **Consigna**
