@@ -11,5 +11,8 @@ A grandes rasgos, nos podemos encontrar con dos tipos de lenguajes de programaci
 `Lenguajes dinámicos:` Cuando creamos una variable, no es necesario indicarle el tipo de dato que va a contener. El lenguaje de programación se encargará de deducir o inferir el tipo de dato (dependiendo del valor que le hayamos asignado).
 
 Javascript pertenece a los lenguajes dinámicos, ya que automáticamente detecta de que tipo de dato se trata en cada caso, dependiendo del contenido que le hemos asignado a la variable.
+Es importante recalcar que en Javascript, aunque no tengamos que indicar el tipo de dato de cada variable, los tipos de datos existen, se puede acceder a ellos e incluso convertir entre un tipo de dato y otro.  
+
 Es importante recalcar que en Javascript, aunque no tengamos que indicar el tipo de dato de cada variable, los tipos de datos existen, se puede acceder a ellos e incluso convertir entre un tipo de dato y otro.
-Es importante recalcar que en Javascript, aunque no tengamos que indicar el tipo de dato de cada variable, los tipos de datos existen, se puede acceder a ellos e incluso convertir entre un tipo de dato y otro.
+
+![tipos de  datos js](/nivel-0/img/tiposDeDatos.jpg)
