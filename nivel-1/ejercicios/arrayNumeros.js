@@ -15,15 +15,6 @@ El objetivo de este ejercicio es crear un array de 50 posiciones con números al
 // creamos un array vacio para llenarlos de numeros 
 const numerosRandom = [];
 
-/* a continuación debes hacer que el for se ejecute 50 veces
- usa un console.log() para probar que se ejecuta 50 veces
-antes de generar los números*/
-
-/*for(i = 0; i < 50; i++){
-    console.log(i);
-} 
-*/
-
 /* En cada ciclo del for vamos a generar un nuevo número aleatorio.
    Para esto vamos a usar Math.random() que es una función
   de JavaScript que genera un número aleatorio entre 0 y 1*/
@@ -47,14 +38,10 @@ const numeroGrande = randomNum * 100;
 const numeroRedondeado = Math.floor(numeroGrande);
 console.log("numeroRedondeado:",numeroRedondeado);
 
-/* finalmente, almacenamos el número generado en el array
- ejemplo: numerosRandom[x] = num;*/
- let x = 0;
- numerosRandom[x] = numeroRedondeado;
+/* creamos un for para generar 50 numeros aleatorios */
 
- for(i = 0;numerosRandom.length < 50; i++){
-  numerosRandom[i] = numeroRedondeado;
- }
+for(i = 0; i < 50; i++){
+  numerosRandom[i] = Math.floor(Math.random()*100);
+}
 
- // mostrar el array en la terminal 
- console.log(numerosRandom);
+console.log(numerosRandom);
