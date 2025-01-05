@@ -11,15 +11,3 @@ Además, esa función tiene que devolver el array de argumentos convertido en un
 }
 */
 
-const { argv } = require('node:process');
-
-let args = argv.slice(2);
-
-
-function main(args) {
-
-    args = Object.fromEntries(args.map(arg => arg.split(':')));
-    console.log(args);
-}
-
-main(args);
