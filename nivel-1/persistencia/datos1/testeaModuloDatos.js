@@ -1,11 +1,12 @@
-import {getAll,getOlderThan} from "./controller.js";
-import "./datos.js";
-import { personas } from "./datos.js";
+// completar acá importando el módulo "datos"
 
-const datos = personas;
+
+// que tiene las funciones getAll y getOlderThan
+
+ const datos = require("./datos");
 
 function testeaModuloDatos() {
-    const todos = getAll();
+    const todos = datos.getAll();
   
     const sorted = todos.sort((a, b) => a.edad - b.edad);
   
@@ -21,7 +22,7 @@ function testeaModuloDatos() {
   
     const butFirst = sorted.slice(1);
     const first = sorted[0];
-    const mayoresDe = getOlderThan(first.edad);
+    const mayoresDe = datos.getOlderThan(first.edad);
   
     if (mayoresDe.length == butFirst.length) {
       console.log("getOlderThan passed");
