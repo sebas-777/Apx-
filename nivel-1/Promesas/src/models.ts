@@ -6,13 +6,15 @@ class Product{
     id: number;
     name: string;
     price: number;
-    stock: number;
+    peliculas:[];
+    
 
-    constructor(id: number, name: string, price: number, stock: number){
+    constructor(id: number, name: string, price: number, peliculas:[]) {
         this.id = id;
         this.name = name;
         this.price = price;
-        this.stock = stock;
+        this.peliculas = peliculas;
+        
     }
 
     
@@ -30,7 +32,7 @@ class ProductCollection{
         const data = fs.readFileSync(filePath, "utf-8");
         const jsonData =  JSON.parse(data);
 
-        return jsonData.map((product: any) => new Product(product.id, product.name, product.price, product.stock));
+        return jsonData.map((product: any) => new Product(product.id, product.name, product.price, product.peliculas));
         
     }
 
