@@ -14,3 +14,12 @@ Cada etiqueta HTML está compuesta por cuatro elementos principales:
 
 Además, las etiquetas HTML pueden tener atributos que contienen información adicional acerca del elemento. Cada atributo debe tener un espacio entre él y el nombre del elemento, seguido por un signo de igual y comillas de apertura y cierre que encierren el valor del atributo. Por ejemplo, la etiqueta de imagen <img> puede tener un atributo de "src" para especificar la fuente de la imagen:
 
+~~~
+
+<img src="ejemplo.png" alt="Este es un ejemplo de una imagen en HTML">
+
+~~~
+Es importante tener en cuenta que los atributos siempre se incluyen en la etiqueta de apertura de un elemento, nunca en la de cierre.
+
+
+
