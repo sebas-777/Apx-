@@ -1,0 +1,55 @@
+body{
+    background-color: beige;
+}
+
+.flex-container{
+    display: flex;
+    border: 1px solid black;
+    background: #58564b;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 80%;
+    height: 600px;
+    margin: 0 auto;
+    
+    
+}
+
+.caja{
+    border: 1px solid black;
+    background-color:white;
+    font-family: 'Courier New', Courier, monospace;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    margin: 5px;
+}
+
+
+.c1{
+    background: green;
+    order: 2;
+    flex-grow: 1;
+    flex-basis: 50%;
+}
+
+.c2{
+    background: red;
+    order: 4;
+    flex-grow: 1;
+    
+}
+
+.c3{
+    background: blue;
+    order: 3;
+    flex-grow: 1;
+}
+
+.c4{
+    background: yellow;
+    order: 1;
+    flex-grow: 1;
+}

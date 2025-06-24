@@ -1,0 +1,16 @@
+.header{
+    display: grid;
+    gap: 45px;
+    grid-template-columns: 150PX 1fr 150PX;
+    margin: 0 45px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu > a{
+    margin: 0 15px;
+}
