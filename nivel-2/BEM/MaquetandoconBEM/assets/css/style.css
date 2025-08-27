@@ -1,0 +1,93 @@
+*body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #2c2b2b;
+}
+
+.apx-suscription{
+    max-width: 400px;
+    margin: 0 auto;
+    background: #fff;
+    border: 1 px solid #dbe0e6;
+    border-radius: 8px;
+    box-shadow: 0 2px  8px rgba(0, 0, 0, 0,0.05);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.apx-suscription__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #111;
+    padding: 1rem;
+}
+
+.apx-suscription__logo{
+    width: 70px;
+    height: auto;
+    display: block;
+}
+
+.apx-suscription__Login-btn{
+    background: #45d6f9;
+    color: #111;
+    border:none;
+    border-radius: 6px;
+    padding: 0.6rem 1.4rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.apx-suscription__main{
+    flex: 1 ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1rem;
+}
+
+.apx-suscription__title{
+    font-size: 1.7rem;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.apx-suscription__form{
+    width: 100%;
+    max-width: 320px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+}
+
+.apx-suscription__label{
+    font-size: 1.1rem;
+    margin-bottom: .5rem;
+    color: #343434;
+}
+
+.apx-suscription__input{
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1.1rem;
+    border: 1px solid #dcdcdc;
+    border-radius: 4px;
+}
+
+.apx-suscription__submit-btn{
+    background: #FFEB3B;
+    color: #111;
+    border: none;
+    border-radius: 6px;
+    padding: 0.8rem 0;
+    font-size: 1.1rem;
+    font-weight: 500;
+    cursor:pointer;
+    transition: banckground 0.2s;
+}

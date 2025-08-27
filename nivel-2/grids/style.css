@@ -1,0 +1,26 @@
+.contenedor{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.contenedor-colores{
+    min-height: 100px;
+    min-height: 100px;
+    margin: 20px;
+    
+}
+
+.contenedor-rojo{
+    background-color: red;
+    grid-row: 1/span 2 ;
+}
+
+.contenedor-gris{
+    background-color: gray;
+}
+
+.contenedor-azul{
+    background-color: blue;
+    grid-column: 1/span 3;
+}

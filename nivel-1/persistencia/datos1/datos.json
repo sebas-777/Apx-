@@ -1,0 +1,29 @@
+[
+    {
+        "nombre": "Eduardo",
+        "edad": 30,
+        "cosas": [
+            "programar",
+            "jugar",
+            "dormir"
+        ]
+    },
+    {
+        "nombre": "Luis",
+        "edad": 13,
+        "cosas": [
+            "leer",
+            "correr",
+            "dormir"
+        ]
+    },
+    {
+        "nombre": "Samanta",
+        "edad": 25,
+        "cosas": [
+            "correr",
+            "leer",
+            "nadar"
+        ]
+    }
+]

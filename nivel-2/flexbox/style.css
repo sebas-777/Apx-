@@ -1,0 +1,35 @@
+body{
+    
+}
+
+.contenedores-cuadrados{
+    display: flex;
+    justify-content: space-between;
+    border: solid;
+}
+
+.cuadro-azul{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.cuadro-rojo{
+    background-color: red;
+    width: 45%;
+    height: 100px;
+}
+
+.contenedores-cuadrados-rojos{
+    margin-top:20px;
+}
+
+.contenedores-cuadrados-vertical{
+    display: flex;
+    background: violet;
+    padding: 40px;
+    margin-top: 20px;
+    flex-direction: column;
+    justify-content: center;
+}
