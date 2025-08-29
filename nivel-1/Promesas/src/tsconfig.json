@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "ES2015",
+        "typeRoots": ["node_modules/@types"],
+        "esModuleInterop": true,
+        "moduleResolution": "node16",
+        "module": "Node16"
+    }
+}

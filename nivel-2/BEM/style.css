@@ -1,0 +1,40 @@
+/*device-width 
+    BEM  - metodologia bloque elementomodificador
+    
+    Class = aplicar estilo 
+    id = aplicar comportamiento - funcionamiento
+
+    bloque
+    bloque__elemento
+    bloque--modificador
+
+    1.usar ids
+    2.no usar etiquetas
+    3.seleccionar elementos a los cuales se les va a aplicar estilos
+*/
+
+.cards{
+    width: 400px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 5px 5px;
+    background-color: #F3F3F3;
+    border-radius: 5px;
+}
+
+.card__title{
+font-size: 24px;
+font-weight: bold;    
+
+}
+
+.card__content{
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.card__link{
+    font-size: 14px;
+    font-weight: normal;
+}

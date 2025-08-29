@@ -1,0 +1,7 @@
+### Test automáticos
+
+Los tests automáticos en la web son una forma de asegurarse de que una aplicación web funciona correctamente. En lugar de que una persona pruebe manualmente cada función y característica de la aplicación, los tests automatizados pueden ser escritos para simular las acciones de un usuario y verificar si la aplicación se comporta como se espera.   
+
+Estos tests pueden ser diseñados para cubrir una amplia variedad de casos de uso y escenarios de error, y se pueden ejecutar con frecuencia para detectar problemas rápidamente. Los tests automáticos en la web pueden incluir pruebas de integración, pruebas de unidades y pruebas de aceptación, que se ejecutan en diferentes etapas del ciclo de vida del desarrollo de software.  
+
+Una herramienta comúnmente utilizada para escribir y ejecutar tests automáticos en la web es Selenium, que permite automatizar la interacción del usuario con la aplicación web en un navegador. Otras herramientas populares incluyen Cypress y Puppeteer. Estas herramientas permiten simular la interacción del usuario con la aplicación, como hacer clic en botones, ingresar texto en formularios y navegar por diferentes páginas, y luego verificar si la aplicación responde de manera adecuada y produce los resultados esperados.
