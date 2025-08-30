@@ -85,7 +85,7 @@ Copiar
 
 <script>
   const titulo = document.querySelector('#titulo');
-  console.log(titulo); // muestra el elemento h1 con id="titulo"
+  console.log(titulo); // muestra el elemento h1 con id="titulo;
   
   const parrafo = document.querySelector('.parrafo');
   console.log(parrafo); // muestra el elemento p con class="parrafo"
