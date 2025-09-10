@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enviando forms</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="index.js"></script>
+</head>
+<body>
+<div class="container">
+    <form action="GET" class="form">
+        <div class="form__group">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" class="form__input" placeholder="Your name" required>
+        </div>
+        <div class="form__group">
+             <label for="text">From what you've learned so far, which topic did you like the most? </label>
+        <select name="subject" id="study-topic" class="form__select" required>
+            <option value="">--Please choose an option--</option>
+            <option value="html">HTML</option>
+            <option value="css">CSS</option>
+            <option value="javascript">JavaScript</option>
+            <option value="git">GIT</option>
+        </select>
+        </div>
+       <div class="form__group">
+        <fieldset class="form__radio">
+            <legend>At what time do you prefer to study?</legend>
+            <input type="radio" name="day" value="day">
+            <label for="day">Day</label>
+            <input type="radio" name="night" value="night">
+            <label for="night">Night</label>
+        </fieldset>
+       </div>
+        <div class="form__group">
+            <fieldset class="form__checkbox">
+            <legend>which topics have you complex so far</legend>
+            <div class="form__checkbox-item">
+                <input type="checkbox" name="typeScript" value="typeScript">
+                <label for="typeScript">TypeScript</label>
+            </div>
+            <div class="form__checkbox-item">
+                <input type="checkbox" name="promeses" value="promeses">
+                <label for="react">Promeses</label>
+            </div>
+            <div class="form__checkbox-item">
+                <input type="checkbox" name="classes" value="classes">
+                <label for="react">Classes</label>
+            </div>
+            <div class="form__checkbox-item">
+                <input type="checkbox" name="Functions" value="Functions">
+                <label for="funtion">Functions</label>
+            </div>
+        
+        </fieldset>
+        </div>
+        <div class="form__group">
+            <div class="form__checkbox-buttom">
+                <input type="submit" class="submit" type="submit" value="Submit">
+            </div>
+            
+        </div>
+
+    </form>
+</div>
+    
+    
+</body>
+</html
