@@ -1,0 +1,7 @@
+# Librerías: la solución para no reinventar la rueda
+
+Probablemente has escuchado alguna vez que cuando construimos software no tenemos que reinventar la rueda. Es decir, no es necesario invertir esfuerzo y tiempo para resolver un problema que ya tiene una solución óptima. Esto sucede porque muchos inconvenientes con los que nos encontramos en el desarrollo de aplicaciones son los mismos con los que ya se han encontrado otras personas, lo que hace que las soluciones se estandaricen. Por eso, utilizamos librerías para utilizar soluciones ya creadas y avaladas por la comunidad.
+
+En general, el objetivo de una librería es hacer más fácil y rápido el desarrollo de ciertas funciones dentro de una aplicación. Así, puedes tomar código de una librería para ahorrar tiempo y dedicárselo a otras funcionalidades específicas de tu proyecto. Aunque existen muchas librerías para los diferentes lenguajes de programación, algunas son más generalistas y otras están enfocadas en resolver problemas específicos, siendo estas últimas las mejores opciones.
+
+Aunque componentizar y utilizar librerías puede ser difícil al principio, la práctica hace que sea más sencillo y eficiente. Las librerías también suelen permitir configurar su comportamiento, y se pueden utilizar diferentes librerías en un mismo proyecto para no depender de una sola. Un aspecto fundamental de las librerías es que, por lo general, son sostenidas por una comunidad que las utiliza, lo que les da soporte y nos brinda seguridad en caso de errores.
