@@ -1,0 +1,3 @@
+# Librerías de CSS
+Las librerías de CSS son un conjunto de estilos predefinidos que se pueden utilizar en un sitio web o aplicación para darle un aspecto profesional y estandarizado. Estas librerías suelen incluir una amplia variedad de componentes, como botones, formularios, menús de navegación, iconos, y más. Al utilizar una librería de CSS, se puede ahorrar una gran cantidad de tiempo y esfuerzo en la creación de estilos desde cero, y se puede obtener un aspecto visual atractivo y coherente en todo el sitio web o aplicación. Algunas de las librerías de CSS más populares son Bootstrap, Bulma, Materialize, Foundation y Semantic UI.
+
