@@ -1,0 +1,10 @@
+# Componentizando
+
+Un componente es un conjunto de código reutilizable que tiene como objetivo poder ser incluido en diferentes partes de una aplicación. Por ejemplo, el header o el footer de una página web son componentes que se utilizan en muchas páginas del mismo sitio.
+
+En línea con lo que vimos en el capítulo BEM, los componentes son equivalentes a los bloques que plantea esa metodología. Por lo tanto, comparten la característica de tener sentido por sí mismos y permitir la escalabilidad de un proyecto. Los componentes sin independientes y reutilizables.
+
+Web components
+En la programación web, los componentes se crean combinando HTML, CSS y JavaScript. Esta es una forma muy popular de desarrollo y, de hecho, las librerías más usadas en el mundo del frontend se dedican a resolver el problema de crear y utilizar componentes.
+
+Las librerías de componentes, como Bulma o Material, ofrecen una amplia variedad de elementos de interfaz de usuario que se pueden utilizar para construir aplicaciones web de manera más eficiente. Al utilizar estas librerías, los desarrolladores pueden centrarse en la lógica de negocio de su aplicación en lugar de perder tiempo en la creación de componentes desde cero. En resumen, los componentes y las librerías de componentes son herramientas esenciales para crear aplicaciones web escalables y eficientes.
